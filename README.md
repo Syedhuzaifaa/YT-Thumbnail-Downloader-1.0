@@ -1,1 +1,1 @@
-# YT-Thumbnail-Downloader-1.0
+# YT-Thumbnail-Downloade
